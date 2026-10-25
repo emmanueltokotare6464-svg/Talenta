@@ -1,0 +1,8 @@
+{
+  "name": "Talenta - Vocation et Talents Jeunesse",
+  "description": "Guide interactif pour aider les jeunes chrétiens à découvrir, orienter et développer leurs talents sportifs, spirituels et sociaux selon leurs dons divins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
